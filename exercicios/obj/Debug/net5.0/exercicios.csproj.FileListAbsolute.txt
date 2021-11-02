@@ -1,0 +1,16 @@
+D:\aprendaaprogramar\exercicios\bin\Debug\net5.0\exercicios.exe
+D:\aprendaaprogramar\exercicios\bin\Debug\net5.0\exercicios.deps.json
+D:\aprendaaprogramar\exercicios\bin\Debug\net5.0\exercicios.runtimeconfig.json
+D:\aprendaaprogramar\exercicios\bin\Debug\net5.0\exercicios.runtimeconfig.dev.json
+D:\aprendaaprogramar\exercicios\bin\Debug\net5.0\exercicios.dll
+D:\aprendaaprogramar\exercicios\bin\Debug\net5.0\ref\exercicios.dll
+D:\aprendaaprogramar\exercicios\bin\Debug\net5.0\exercicios.pdb
+D:\aprendaaprogramar\exercicios\obj\Debug\net5.0\exercicios.csproj.AssemblyReference.cache
+D:\aprendaaprogramar\exercicios\obj\Debug\net5.0\exercicios.GeneratedMSBuildEditorConfig.editorconfig
+D:\aprendaaprogramar\exercicios\obj\Debug\net5.0\exercicios.AssemblyInfoInputs.cache
+D:\aprendaaprogramar\exercicios\obj\Debug\net5.0\exercicios.AssemblyInfo.cs
+D:\aprendaaprogramar\exercicios\obj\Debug\net5.0\exercicios.csproj.CoreCompileInputs.cache
+D:\aprendaaprogramar\exercicios\obj\Debug\net5.0\exercicios.dll
+D:\aprendaaprogramar\exercicios\obj\Debug\net5.0\ref\exercicios.dll
+D:\aprendaaprogramar\exercicios\obj\Debug\net5.0\exercicios.pdb
+D:\aprendaaprogramar\exercicios\obj\Debug\net5.0\exercicios.genruntimeconfig.cache

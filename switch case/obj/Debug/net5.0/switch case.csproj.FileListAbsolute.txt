@@ -1,0 +1,5 @@
+D:\aprendaaprogramar\switch case\obj\Debug\net5.0\switch case.csproj.AssemblyReference.cache
+D:\aprendaaprogramar\switch case\obj\Debug\net5.0\switch case.GeneratedMSBuildEditorConfig.editorconfig
+D:\aprendaaprogramar\switch case\obj\Debug\net5.0\switch case.AssemblyInfoInputs.cache
+D:\aprendaaprogramar\switch case\obj\Debug\net5.0\switch case.AssemblyInfo.cs
+D:\aprendaaprogramar\switch case\obj\Debug\net5.0\switch case.csproj.CoreCompileInputs.cache
